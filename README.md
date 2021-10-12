@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-idaolson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idaolson/)](https://www.linkedin.com/in/idaolson/)
 [![Gmail Badge](https://img.shields.io/badge/-idaolson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idaolson@gmail.com)](mailto:idaolson@gmail.com)
 <!--
@@ -18,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Ida's GitHub stats](https://github-readme-stats.vercel.app/api?username=idaolson&show_icons=true&theme=nightowl)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=idaolson)
