@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-idaolson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idaolson/)](https://www.linkedin.com/in/idaolson/)
-
+[![Gmail Badge](https://img.shields.io/badge/-idaolson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idaolson@gmail.com)](mailto:idaolson@gmail.com)
 <!--
 **idaolson/idaolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
