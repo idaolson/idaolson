@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![Ida's GitHub stats](https://github-readme-stats.vercel.app/api?username=idaolson&show_icons=true&theme=nightowl)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=idaolson)
