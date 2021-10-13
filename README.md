@@ -1,6 +1,6 @@
 ## 🚀 Ida Olson 🚀
 
-- 🔭 I’m currently working on [viewing-party}(https://github.com/idaolson/viewing_party)
+- 🔭 I’m currently working on [viewing-party](https://github.com/idaolson/viewing_party)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-idaolson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idaolson/)](https://www.linkedin.com/in/idaolson/)
