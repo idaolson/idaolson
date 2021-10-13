@@ -1,6 +1,7 @@
 ## 🚀 Ida Olson 🚀
 
 - 🔭 I’m currently working on [viewing-party](https://github.com/idaolson/viewing_party)
+- 💫 My previous project was [little-esty-shop-bulk-discounts](https://github.com/idaolson/little-esty-shop-bulk-discounts)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-idaolson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idaolson/)](https://www.linkedin.com/in/idaolson/)
