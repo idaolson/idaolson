@@ -1,5 +1,6 @@
 ## 🚀  Ida Olson  🚀
 [![Linkedin Badge](https://img.shields.io/badge/-idaolson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idaolson/)](https://www.linkedin.com/in/idaolson/)
+***UPDATE: Street Smart was selected to compete in [Turing School of Software & Design](https://www.linkedin.com/school/turingschool/mycompany/)'s Demo Comp!***
 [![Gmail Badge](https://img.shields.io/badge/-idaolson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idaolson@gmail.com)](mailto:idaolson@gmail.com)
 
 - 🔭  I’m currently working on [street-smart-fe](https://github.com/WMudgeEllis/street_smart_fe) and [street-smart-be](https://github.com/WMudgeEllis/street_smart_be)
