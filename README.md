@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on [street-smart-fe](https://github.com/WMudgeEllis/street_smart_fe) and [street-smart-be](https://github.com/WMudgeEllis/street_smart_be)
 
-***UPDATE: Street Smart was selected to compete in [Turing School of Software & Design](https://www.linkedin.com/school/turingschool/mycompany/)'s Demo Comp!***
+***UPDATE: Street Smart was selected to compete in [Turing School of Software & Design](https://www.linkedin.com/school/turingschool)'s Demo Comp!***
 - 💫  My previous projects were [rails-engine](https://github.com/idaolson/rails-engine) and [viewing-party](https://github.com/idaolson/viewing_party)
 - 🌱 I’m currently learning JavaScript
 
