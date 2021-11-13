@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-idaolson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idaolson@gmail.com)](mailto:idaolson@gmail.com)
 
 - 🔭  I’m currently working on [street-smart-fe](https://github.com/WMudgeEllis/street_smart_fe) and [street-smart-be](https://github.com/WMudgeEllis/street_smart_be)
+
 ***UPDATE: Street Smart was selected to compete in [Turing School of Software & Design](https://www.linkedin.com/school/turingschool/mycompany/)'s Demo Comp!***
 - 💫  My previous projects were [rails-engine](https://github.com/idaolson/rails-engine) and [viewing-party](https://github.com/idaolson/viewing_party)
 - 🌱 I’m currently learning JavaScript
